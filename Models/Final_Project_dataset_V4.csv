@@ -264,7 +264,7 @@ Date of notification to WHO (yyyy/mm/dd),Reporting country,City of residence,Age
 2017-06-24,Saudi Arabia,Riyadh,60,M,No,Yes,No,No,No,2017-06-16,2017-06-21,2017-06-23,7,Alive
 2017-06-25,Saudi Arabia,Dammam,30,F,No,No,Yes,No,No,2017-06-18,2017-06-22,2017-06-24,6,Alive
 2017-07-01,Saudi Arabia,Baha,70,M,No,Yes,No,No,No,2017-06-27,2017-06-28,2017-06-30,3,Alive
-2017-06-19,Lebanon,Riyadh‡,39,M,Yes,No,No,No,No,2017-06-08,NA,2017-06-16,8,Alive
+2017-06-19,Lebanon,RiyadhÂ‡,39,M,Yes,No,No,No,No,2017-06-08,NA,2017-06-16,8,Alive
 2017-06-16,Saudi Arabia,Riyadh,68,M,No,Yes,No,No,Yes,2017-06-13,2017-05-28,2017-06-15,2,Dead
 2017-06-17,Saudi Arabia,Riyadh,41,F,Yes,No,No,No,Yes,NA,NA,2017-06-17,NA,Alive
 2017-06-18,Saudi Arabia,Hofouf,71,M,No,Yes,No,No,No,2017-06-10,2017-06-15,2017-06-17,7,Alive
@@ -475,7 +475,7 @@ Date of notification to WHO (yyyy/mm/dd),Reporting country,City of residence,Age
 2017-06-24,Saudi Arabia,Riyadh,60,M,No,Yes,No,No,No,2017-06-16,2017-06-21,2017-06-23,7,Alive
 2017-06-25,Saudi Arabia,Dammam,30,F,No,No,Yes,No,No,2017-06-18,2017-06-22,2017-06-24,6,Alive
 2017-07-01,Saudi Arabia,Baha,70,M,No,Yes,No,No,No,2017-06-27,2017-06-28,2017-06-30,3,Alive
-2017-06-19,Lebanon,Riyadh‡,39,M,Yes,No,No,No,No,2017-06-08,NA,2017-06-16,8,Alive
+2017-06-19,Lebanon,RiyadhÂ‡,39,M,Yes,No,No,No,No,2017-06-08,NA,2017-06-16,8,Alive
 2017-06-16,Saudi Arabia,Riyadh,68,M,No,Yes,No,No,Yes,2017-06-13,2017-05-28,2017-06-15,2,Dead
 2017-06-17,Saudi Arabia,Riyadh,41,F,Yes,No,No,No,Yes,NA,NA,2017-06-17,NA,Alive
 2017-06-18,Saudi Arabia,Hofouf,71,M,No,Yes,No,No,No,2017-06-10,2017-06-15,2017-06-17,7,Alive
@@ -699,7 +699,7 @@ Date of notification to WHO (yyyy/mm/dd),Reporting country,City of residence,Age
 2017-06-24,Saudi Arabia,Riyadh,60,M,No,Yes,No,No,No,2017-06-16,2017-06-21,2017-06-23,7,Alive
 2017-06-25,Saudi Arabia,Dammam,30,F,No,No,Yes,No,No,2017-06-18,2017-06-22,2017-06-24,6,Alive
 2017-07-01,Saudi Arabia,Baha,70,M,No,Yes,No,No,No,2017-06-27,2017-06-28,2017-06-30,3,Alive
-2017-06-19,Lebanon,Riyadh‡,39,M,Yes,No,No,No,No,2017-06-08,NA,2017-06-16,8,Alive
+2017-06-19,Lebanon,RiyadhÂ‡,39,M,Yes,No,No,No,No,2017-06-08,NA,2017-06-16,8,Alive
 2017-06-16,Saudi Arabia,Riyadh,68,M,No,Yes,No,No,Yes,2017-06-13,2017-05-28,2017-06-15,2,Dead
 2017-06-17,Saudi Arabia,Riyadh,41,F,Yes,No,No,No,Yes,NA,NA,2017-06-17,NA,Alive
 2017-06-18,Saudi Arabia,Hofouf,71,M,No,Yes,No,No,No,2017-06-10,2017-06-15,2017-06-17,7,Alive
@@ -900,7 +900,7 @@ Date of notification to WHO (yyyy/mm/dd),Reporting country,City of residence,Age
 2017-06-24,Saudi Arabia,Riyadh,60,M,No,Yes,No,No,No,2017-06-16,2017-06-21,2017-06-23,7,Alive
 2017-06-25,Saudi Arabia,Dammam,30,F,No,No,Yes,No,No,2017-06-18,2017-06-22,2017-06-24,6,Alive
 2017-07-01,Saudi Arabia,Baha,70,M,No,Yes,No,No,No,2017-06-27,2017-06-28,2017-06-30,3,Alive
-2017-06-19,Lebanon,Riyadh‡,39,M,Yes,No,No,No,No,2017-06-08,NA,2017-06-16,8,Alive
+2017-06-19,Lebanon,RiyadhÂ‡,39,M,Yes,No,No,No,No,2017-06-08,NA,2017-06-16,8,Alive
 2017-06-16,Saudi Arabia,Riyadh,68,M,No,Yes,No,No,Yes,2017-06-13,2017-05-28,2017-06-15,2,Dead
 2017-06-17,Saudi Arabia,Riyadh,41,F,Yes,No,No,No,Yes,NA,NA,2017-06-17,NA,Alive
 2017-06-18,Saudi Arabia,Hofouf,71,M,No,Yes,No,No,No,2017-06-10,2017-06-15,2017-06-17,7,Alive
@@ -1087,7 +1087,7 @@ Date of notification to WHO (yyyy/mm/dd),Reporting country,City of residence,Age
 2017-06-24,Saudi Arabia,Riyadh,60,M,No,Yes,No,No,No,2017-06-16,2017-06-21,2017-06-23,7,Alive
 2017-06-25,Saudi Arabia,Dammam,30,F,No,No,Yes,No,No,2017-06-18,2017-06-22,2017-06-24,6,Alive
 2017-07-01,Saudi Arabia,Baha,70,M,No,Yes,No,No,No,2017-06-27,2017-06-28,2017-06-30,3,Alive
-2017-06-19,Lebanon,Riyadh‡,39,M,Yes,No,No,No,No,2017-06-08,NA,2017-06-16,8,Alive
+2017-06-19,Lebanon,RiyadhÂ‡,39,M,Yes,No,No,No,No,2017-06-08,NA,2017-06-16,8,Alive
 2017-06-16,Saudi Arabia,Riyadh,68,M,No,Yes,No,No,Yes,2017-06-13,2017-05-28,2017-06-15,2,Dead
 2017-06-17,Saudi Arabia,Riyadh,41,F,Yes,No,No,No,Yes,NA,NA,2017-06-17,NA,Alive
 2017-06-18,Saudi Arabia,Hofouf,71,M,No,Yes,No,No,No,2017-06-10,2017-06-15,2017-06-17,7,Alive
@@ -1329,7 +1329,7 @@ Date of notification to WHO (yyyy/mm/dd),Reporting country,City of residence,Age
 2017-06-24,Saudi Arabia,Riyadh,60,M,No,Yes,No,No,No,2017-06-16,2017-06-21,2017-06-23,7,Alive
 2017-06-25,Saudi Arabia,Dammam,30,F,No,No,Yes,No,No,2017-06-18,2017-06-22,2017-06-24,6,Alive
 2017-07-01,Saudi Arabia,Baha,70,M,No,Yes,No,No,No,2017-06-27,2017-06-28,2017-06-30,3,Alive
-2017-06-19,Lebanon,Riyadh‡,39,M,Yes,No,No,No,No,2017-06-08,NA,2017-06-16,8,Alive
+2017-06-19,Lebanon,RiyadhÂ‡,39,M,Yes,No,No,No,No,2017-06-08,NA,2017-06-16,8,Alive
 2017-06-16,Saudi Arabia,Riyadh,68,M,No,Yes,No,No,Yes,2017-06-13,2017-05-28,2017-06-15,2,Dead
 2017-06-17,Saudi Arabia,Riyadh,41,F,Yes,No,No,No,Yes,NA,NA,2017-06-17,NA,Alive
 2017-06-18,Saudi Arabia,Hofouf,71,M,No,Yes,No,No,No,2017-06-10,2017-06-15,2017-06-17,7,Alive
@@ -1531,7 +1531,7 @@ Date of notification to WHO (yyyy/mm/dd),Reporting country,City of residence,Age
 2017-06-24,Saudi Arabia,Riyadh,60,M,No,Yes,No,No,No,2017-06-16,2017-06-21,2017-06-23,7,Alive
 2017-06-25,Saudi Arabia,Dammam,30,F,No,No,Yes,No,No,2017-06-18,2017-06-22,2017-06-24,6,Alive
 2017-07-01,Saudi Arabia,Baha,70,M,No,Yes,No,No,No,2017-06-27,2017-06-28,2017-06-30,3,Alive
-2017-06-19,Lebanon,Riyadh‡,39,M,Yes,No,No,No,No,2017-06-08,NA,2017-06-16,8,Alive
+2017-06-19,Lebanon,RiyadhÂ‡,39,M,Yes,No,No,No,No,2017-06-08,NA,2017-06-16,8,Alive
 2017-06-16,Saudi Arabia,Riyadh,68,M,No,Yes,No,No,Yes,2017-06-13,2017-05-28,2017-06-15,2,Dead
 2017-06-17,Saudi Arabia,Riyadh,41,F,Yes,No,No,No,Yes,NA,NA,2017-06-17,NA,Alive
 2017-06-18,Saudi Arabia,Hofouf,71,M,No,Yes,No,No,No,2017-06-10,2017-06-15,2017-06-17,7,Alive
@@ -1774,7 +1774,7 @@ Date of notification to WHO (yyyy/mm/dd),Reporting country,City of residence,Age
 2017-06-24,Saudi Arabia,Riyadh,60,M,No,Yes,No,No,No,2017-06-16,2017-06-21,2017-06-23,7,Alive
 2017-06-25,Saudi Arabia,Dammam,30,F,No,No,Yes,No,No,2017-06-18,2017-06-22,2017-06-24,6,Alive
 2017-07-01,Saudi Arabia,Baha,70,M,No,Yes,No,No,No,2017-06-27,2017-06-28,2017-06-30,3,Alive
-2017-06-19,Lebanon,Riyadh‡,39,M,Yes,No,No,No,No,2017-06-08,NA,2017-06-16,8,Alive
+2017-06-19,Lebanon,RiyadhÂ‡,39,M,Yes,No,No,No,No,2017-06-08,NA,2017-06-16,8,Alive
 2017-06-16,Saudi Arabia,Riyadh,68,M,No,Yes,No,No,Yes,2017-06-13,2017-05-28,2017-06-15,2,Dead
 2017-06-17,Saudi Arabia,Riyadh,41,F,Yes,No,No,No,Yes,NA,NA,2017-06-17,NA,Alive
 2017-06-18,Saudi Arabia,Hofouf,71,M,No,Yes,No,No,No,2017-06-10,2017-06-15,2017-06-17,7,Alive
@@ -1962,7 +1962,7 @@ Date of notification to WHO (yyyy/mm/dd),Reporting country,City of residence,Age
 2017-06-24,Saudi Arabia,Riyadh,60,M,No,Yes,No,No,No,2017-06-16,2017-06-21,2017-06-23,7,Alive
 2017-06-25,Saudi Arabia,Dammam,30,F,No,No,Yes,No,No,2017-06-18,2017-06-22,2017-06-24,6,Alive
 2017-07-01,Saudi Arabia,Baha,70,M,No,Yes,No,No,No,2017-06-27,2017-06-28,2017-06-30,3,Alive
-2017-06-19,Lebanon,Riyadh‡,39,M,Yes,No,No,No,No,2017-06-08,NA,2017-06-16,8,Alive
+2017-06-19,Lebanon,RiyadhÂ‡,39,M,Yes,No,No,No,No,2017-06-08,NA,2017-06-16,8,Alive
 2017-06-16,Saudi Arabia,Riyadh,68,M,No,Yes,No,No,Yes,2017-06-13,2017-05-28,2017-06-15,2,Dead
 2017-06-17,Saudi Arabia,Riyadh,41,F,Yes,No,No,No,Yes,NA,NA,2017-06-17,NA,Alive
 2017-06-18,Saudi Arabia,Hofouf,71,M,No,Yes,No,No,No,2017-06-10,2017-06-15,2017-06-17,7,Alive
@@ -2280,7 +2280,7 @@ Date of notification to WHO (yyyy/mm/dd),Reporting country,City of residence,Age
 2017-06-24,Saudi Arabia,Riyadh,60,M,No,Yes,No,No,No,2017-06-16,2017-06-21,2017-06-23,7,Alive
 2017-06-25,Saudi Arabia,Dammam,30,F,No,No,Yes,No,No,2017-06-18,2017-06-22,2017-06-24,6,Alive
 2017-07-01,Saudi Arabia,Baha,70,M,No,Yes,No,No,No,2017-06-27,2017-06-28,2017-06-30,3,Alive
-2017-06-19,Lebanon,Riyadh‡,39,M,Yes,No,No,No,No,2017-06-08,NA,2017-06-16,8,Alive
+2017-06-19,Lebanon,RiyadhÂ‡,39,M,Yes,No,No,No,No,2017-06-08,NA,2017-06-16,8,Alive
 2017-06-16,Saudi Arabia,Riyadh,68,M,No,Yes,No,No,Yes,2017-06-13,2017-05-28,2017-06-15,2,Dead
 2017-06-17,Saudi Arabia,Riyadh,41,F,Yes,No,No,No,Yes,NA,NA,2017-06-17,NA,Alive
 2017-06-18,Saudi Arabia,Hofouf,71,M,No,Yes,No,No,No,2017-06-10,2017-06-15,2017-06-17,7,Alive
